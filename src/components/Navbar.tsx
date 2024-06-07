@@ -9,7 +9,7 @@ const Navbar = () => {
   };
   return (
     <>
-      <div className="fixed left-0 right-0 top-0 z-40 h-[90px] bg-gradient-to-b from-hero-slate-970 via-hero-slate-970 to-transparent pt-[20px] sm:h-[126px] md:pt-[47px]">
+      <div className="fixed left-0 right-0 top-0 z-50 h-[90px] bg-gradient-to-b from-hero-slate-970 via-hero-slate-970 to-transparent pt-[20px] sm:h-[126px] md:pt-[47px]">
         <a href="/market">
           <div className="fixed left-0 right-0 top-0 z-40 flex h-[40px] translate-y-0 cursor-pointer items-center overflow-hidden bg-black transition-all duration-300">
             <div className="marquee">
