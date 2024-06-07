@@ -6,7 +6,7 @@ const SearchBar = () => {
           <div className="flex cursor-pointer items-center gap-0">
             <div className="rounded bg-white p-1">
               <img
-                src="src/assets/images/hero-logo.svg"
+                src="/assets/images/hero-logo.svg"
                 alt="Hero logo"
                 className="h-8 w-8"
               />

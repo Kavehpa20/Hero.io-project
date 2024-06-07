@@ -14,7 +14,7 @@ export default function App() {
   return (
     <div className="relative font-jakarta text-white">
       <Navbar />
-      <div className="-mt-2 overflow-hidden bg-[url('/src/assets/bg-big-body.svg')] bg-cover bg-center px-12 md:px-24">
+      <div className="-mt-2 overflow-hidden bg-[url('/assets/bg-big-body.svg')] bg-cover bg-center px-12 md:px-24">
         <div className="container mx-auto flex h-screen flex-col items-center font-jakarta">
           <main className="mt-[131px] w-full text-white">
             <SearchBar />

@@ -234,7 +234,7 @@ const Navbar = () => {
             <div className="hidden">
               <img
                 className="h-[36px] w-[35px] rounded-full"
-                src="src/assets/user-icon.svg"
+                src="/assets/user-icon.svg"
                 alt="hero user image"
               />
             </div>

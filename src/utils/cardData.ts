@@ -25,8 +25,8 @@ export interface ICard2 {
 
 export const cardData1: ICard1[] = [
   {
-    logo: "src/assets/images/hero_wallet_logo.svg",
-    bot: "src/assets/images/hero_wallet.png",
+    logo: "/assets/images/hero_wallet_logo.svg",
+    bot: "/assets/images/hero_wallet.png",
     h2p1: "Secure",
     h2p2: "your funds",
     h3: "Hero Wallet",
@@ -35,25 +35,25 @@ export const cardData1: ICard1[] = [
     only one having full control over all of the assets.`,
     textBtn: "Go to Wallet",
     disable: false,
-    background: "src/assets/images/hero_wallet_bg.png",
+    background: "/assets/images/hero_wallet_bg.png",
   },
   {
-    logo: "src/assets/images/hero_pay_logo.svg",
-    bot: "src/assets/images/hero_pay.png",
+    logo: "/assets/images/hero_pay_logo.svg",
+    bot: "/assets/images/hero_pay.png",
     h2p1: "ACCEPT CRYPTO",
     h2p2: "PAYMENTS",
     h3: "Hero Pay ",
     explain: `is the ultimate Crypto Merchant Services Payment Gateway. You can accept global crypto payments through our API with zero risk. Supports 90+ crypto wallets and processed $22 million in transactions in 2023.`,
     textBtn: "Go to HeroPay",
     disable: false,
-    background: "src/assets/images/hero_pay_bg.png",
+    background: "/assets/images/hero_pay_bg.png",
   },
 ];
 
 export const cardData2: ICard2[] = [
   {
-    logo: "src/assets/images/hero_search_logo.svg",
-    bot: "src/assets/images/hero_search.png",
+    logo: "/assets/images/hero_search_logo.svg",
+    bot: "/assets/images/hero_search.png",
     h2p1: "WEB 3",
     h2p2: "SEARCH ENGINE",
     h3: "Hero Search Engine",
@@ -61,11 +61,11 @@ export const cardData2: ICard2[] = [
     explain2: `specifically built for Web3 searches. Reliable, Private & Secure browsing.`,
     textBtn: "Coming Soon",
     disable: true,
-    background: "src/assets/images/hero_search_bg.png",
+    background: "/assets/images/hero_search_bg.png",
   },
   {
-    logo: "src/assets/images/hero_browser_logo.svg",
-    bot: "src/assets/images/hero_browser.png",
+    logo: "/assets/images/hero_browser_logo.svg",
+    bot: "/assets/images/hero_browser.png",
     h2p1: "BROWSE THE",
     h2p2: "WEB PRIVATELY",
     h3: "Hero Web3 Browser",
@@ -73,6 +73,6 @@ export const cardData2: ICard2[] = [
     explain2: `Unlike Chrome and other browsers, we don’t track you.`,
     textBtn: "Coming Soon",
     disable: true,
-    background: "src/assets/images/hero_wallet_bg.png",
+    background: "/assets/images/hero_wallet_bg.png",
   },
 ];

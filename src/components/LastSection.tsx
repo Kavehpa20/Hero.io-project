@@ -4,17 +4,17 @@ export const LastSection = () => {
       <div className="absolute left-0 right-0 top-0 z-20 h-[70px] bg-gradient-to-b from-hero-slate-970 to-transparent sm:h-[126px]"></div>
       <div className="absolute inset-0 -z-10">
         <img
-          src="src/assets/images/bg-body.png"
+          src="/assets/images/bg-body.png"
           alt="hero background img"
           className="3xl:block hidden h-full w-full object-cover"
         />
         <img
-          src="src/assets/images/bg-big-body.svg"
+          src="/assets/images/bg-big-body.svg"
           alt="hero background img"
           className="3xl:hidden hidden h-full w-full object-cover md:block"
         />
         <img
-          src="src/assets/images/sm-bg-body.png"
+          src="/assets/images/sm-bg-body.png"
           alt="hero background img"
           className="3xl:hidden block h-full w-full object-fill md:hidden"
         />
