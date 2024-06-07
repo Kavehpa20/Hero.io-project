@@ -10,19 +10,19 @@ const HeroSection = () => {
       <div className="relative col-span-6 row-span-2 flex h-full items-center justify-center md:col-span-3 md:row-span-1">
         <div className="fadeInUp z-20 -mr-28 sm:-mr-0 md:-ml-20">
           <img
-            src="src/assets/images/hero_new_bot.png"
+            src="assets/images/hero_new_bot.png"
             alt="hero bot"
             className="z-10 mx-auto hidden h-auto w-[75%] sm:block 2xl:w-full"
           />
           <img
-            src="src/assets/images/hero_new_bot.png"
+            src="assets/images/hero_new_bot.png"
             alt="hero bot"
             className="z-10 min-h-[300px] min-w-[300px] sm:hidden"
           />
         </div>
         <div className="absolute inset-0 z-10 hidden -translate-x-10 translate-y-20 rotate-3 md:block lg:-translate-x-6 lg:translate-y-28 2xl:-translate-x-4 2xl:translate-y-36">
           <img
-            src="src/assets/images/clip_path.png"
+            src="assets/images/clip_path.png"
             alt="hero background"
             className="h-auto w-[70%] opacity-50 lg:w-[62%]"
           />
